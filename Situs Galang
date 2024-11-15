@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portgalang.com</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Portgalang.com</h1>
+        <p>Portfolio Desain Grafis dan Logo</p>
+        <nav>
+            <a href="#about">Tentang Saya</a>
+            <a href="#portfolio">Portfolio</a>
+            <a href="#contact">Kontak</a>
+        </nav>
+    </header>
+    <main>
+        <section id="about">
+            <h2>Tentang Saya</h2>
+            <p>Halo! Saya Galang, seorang desainer grafis freelance yang berfokus pada pembuatan logo dan desain kreatif.</p>
+        </section>
+        <section id="portfolio">
+            <h2>Portfolio</h2>
+            <div class="gallery">
+                <img src="logo1.jpg" alt="Logo 1">
+                <img src="logo2.jpg" alt="Logo 2">
+                <img src="logo3.jpg" alt="Logo 3">
+            </div>
+        </section>
+        <section id="contact">
+            <h2>Kontak</h2>
+            <p>Hubungi saya untuk proyek desain:</p>
+            <ul>
+                <li>Email: <a href="mailto:folkalite@gmail.com.com">folkalite@gmail.com.com</a></li>
+                <li>WhatsApp: <a href="https://wa.me/1234567890">+62 857-1052-0807</a></li>
+                <li>Instagram: <a href="https://instagram.com/portgalang">@folkalite</a></li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Portgalang.com. Semua Hak Dilindungi.</p>
+    </footer>
+</body>
+</html>
